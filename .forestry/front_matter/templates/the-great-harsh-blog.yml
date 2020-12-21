@@ -1,4 +1,9 @@
 ---
 label: 'the great harsh blog  '
 hide_body: false
-fields: []
+fields:
+- name: myblog
+  type: text
+  config:
+    required: false
+  label: myblog
