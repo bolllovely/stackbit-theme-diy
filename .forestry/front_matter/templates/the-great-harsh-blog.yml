@@ -7,3 +7,9 @@ fields:
   config:
     required: false
   label: myblog
+- name: mybloge
+  type: text
+  config:
+    required: false
+  description: fsda
+  label: mybloge
